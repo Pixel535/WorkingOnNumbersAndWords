@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1618402652 source:d:\mati\moje programy\zadanie 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618403009 source:d:\mati\moje programy\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1619473523 source:d:\mati\moje programy\lab2\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1619473523 source:d:\mati\moje programy\laboratoria\wyrazy liczby\losowe liczby w tablicy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

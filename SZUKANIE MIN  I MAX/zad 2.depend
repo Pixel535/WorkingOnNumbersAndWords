@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619380491 source:d:\mati\moje programy\zad 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619380491 source:d:\mati\moje programy\lab2\zad 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619380491 source:d:\mati\moje programy\lab2\szukanie min  i max\main.c
+	<stdio.h>
+	<stdlib.h>
+

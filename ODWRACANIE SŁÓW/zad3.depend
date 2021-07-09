@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619304264 source:d:\mati\moje programy\zad3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619304264 source:d:\mati\moje programy\lab2\zad3\main.c
+	<stdio.h>
+	<stdlib.h>
+
